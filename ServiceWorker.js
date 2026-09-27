@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Xp's Basics-1.4.3";
 const contentToCache = [
-    "Build/gz.loader.js",
-    "Build/gz.framework.js.gz",
-    "Build/gz.data.gz",
-    "Build/gz.wasm.gz",
+    "Build/fuck you.loader.js",
+    "Build/fuck you.framework.js",
+    "Build/fuck you.data",
+    "Build/fuck you.wasm",
     "TemplateData/style.css"
 
 ];
